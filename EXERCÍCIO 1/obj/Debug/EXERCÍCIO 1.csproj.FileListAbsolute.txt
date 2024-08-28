@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\EXERCÍCIO 1\bin\Debug\EXERCÍCIO 1.exe.config
+C:\Users\aluno\Desktop\EXERCÍCIO 1\bin\Debug\EXERCÍCIO 1.exe
+C:\Users\aluno\Desktop\EXERCÍCIO 1\bin\Debug\EXERCÍCIO 1.pdb
+C:\Users\aluno\Desktop\EXERCÍCIO 1\obj\Debug\EXERCÍCIO 1.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\EXERCÍCIO 1\obj\Debug\EXERCÍCIO 1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\EXERCÍCIO 1\obj\Debug\EXERCÍCIO 1.exe
+C:\Users\aluno\Desktop\EXERCÍCIO 1\obj\Debug\EXERCÍCIO 1.pdb

@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\EXERCICIO 2\bin\Debug\net8.0\EXERCICIO 2.exe
+C:\Users\aluno\Desktop\EXERCICIO 2\bin\Debug\net8.0\EXERCICIO 2.deps.json
+C:\Users\aluno\Desktop\EXERCICIO 2\bin\Debug\net8.0\EXERCICIO 2.runtimeconfig.json
+C:\Users\aluno\Desktop\EXERCICIO 2\bin\Debug\net8.0\EXERCICIO 2.dll
+C:\Users\aluno\Desktop\EXERCICIO 2\bin\Debug\net8.0\EXERCICIO 2.pdb
+C:\Users\aluno\Desktop\EXERCICIO 2\obj\Debug\net8.0\EXERCICIO 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\EXERCICIO 2\obj\Debug\net8.0\EXERCICIO 2.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\EXERCICIO 2\obj\Debug\net8.0\EXERCICIO 2.AssemblyInfo.cs
+C:\Users\aluno\Desktop\EXERCICIO 2\obj\Debug\net8.0\EXERCICIO 2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\EXERCICIO 2\obj\Debug\net8.0\EXERCICIO 2.dll
+C:\Users\aluno\Desktop\EXERCICIO 2\obj\Debug\net8.0\refint\EXERCICIO 2.dll
+C:\Users\aluno\Desktop\EXERCICIO 2\obj\Debug\net8.0\EXERCICIO 2.pdb
+C:\Users\aluno\Desktop\EXERCICIO 2\obj\Debug\net8.0\EXERCICIO 2.genruntimeconfig.cache
+C:\Users\aluno\Desktop\EXERCICIO 2\obj\Debug\net8.0\ref\EXERCICIO 2.dll
